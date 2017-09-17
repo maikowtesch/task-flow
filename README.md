@@ -1,7 +1,7 @@
 # Task Flow
 
 ## Introduction
-Task Flow is a system for task management. In Task Flow, the task is the main focus in the workflow, and a collaborative approach is taken in order to address it successfully.
+Task Flow is a system for task management. In Task Flow the task is the main focus in the workflow, and a collaborative approach is taken in order to address it successfully.
 
 Many times, when a problem arises, its ownership is questioned by members of different teams. Very often much energy is spent on that discussion instead of cooperating with the resolution.
 
