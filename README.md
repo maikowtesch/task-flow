@@ -10,7 +10,7 @@ In Task Flow, the task is the center of everything, and many people can cooperat
 No more arm wrestling, just straight cooperation!
 
 ## Technology Stack
-Task Flow is built using cutting edge technologies. The front-end section is developed using JavaScript language and React. The back-end is Java based, making use of the Spring platform, exposing RESTFull services. The complete stack includes: **React**, **Semantic UI React**, **Spring**, **Spring Boot**, **Hibernate**.
+Task Flow is built using cutting edge technologies. The front-end section is developed using JavaScript and React. The back-end is Java based, making use of the Spring platform, exposing RESTFull services. The complete stack includes: **React**, **Semantic UI React**, **Spring**, **Spring Boot**, **Hibernate**.
 
 ### Important Note
 This system is on early stages of development. It's not production ready yet.
