@@ -1,7 +1,8 @@
 # Task Flow
 
 ```
-IMPORTANT: This system is on early stages of development. For now, it's intended to be a proof of concept for React and Spring Boot, showing how these technologies work together.
+IMPORTANT: This system is on early stages of development. For now, it's intended to be 
+a proof of concept for React and Spring Boot, showing how these technologies work together.
 ```
 
 ## Introduction
