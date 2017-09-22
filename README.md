@@ -1,7 +1,7 @@
 # Task Flow
 
 ```
-*IMPORTANT: This system is on early stages of development. For now, it's intended to be a proof of concept for **React** and **Spring Boot**, showing how these technologies work together.*
+IMPORTANT: This system is on early stages of development. For now, it's intended to be a proof of concept for React and Spring Boot, showing how these technologies work together.
 ```
 
 ## Introduction
@@ -34,7 +34,7 @@ http://localhost:8080
 
 Use this user and password:
 ```
-User: *john.cena*  Password: *1234*
+User: john.cena  Password: 1234
 ```
 
 ## Installation Instructions (for development)
