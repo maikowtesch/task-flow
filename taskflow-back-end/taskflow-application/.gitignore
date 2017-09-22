@@ -1,0 +1,14 @@
+
+# eclipse project files
+
+.settings
+/.settings
+
+/target
+
+.classpath
+
+.project
+
+/src/main/resources
+
